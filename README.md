@@ -40,4 +40,16 @@ Picture 2 :
 ![Uploading Screenshot 2024-07-24 123643.png…]()
 
 
+VIDEO OF THE SCHOOL WEBSITE : 
+https://www.loom.com/share/1448b59265d048599e1bde4e7e80eb85?sid=9d074780-4bdf-4e0b-a8dc-a53bfb9b2065
+
+
+
+
+
+
+
+
+
+
 
