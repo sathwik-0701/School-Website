@@ -30,3 +30,8 @@ Styling Components:
 
 Each component has a corresponding CSS file that defines its style, including layout, colors, fonts, and responsiveness.
 Specific styles are applied to elements like buttons, headers, and media content (images and videos).
+
+Sample pictures :
+![Screenshot 2024-07-24 123622](https://github.com/user-attachments/assets/2d3a8c2a-aebb-4696-ab6c-1bf305785763)
+
+
