@@ -34,4 +34,10 @@ Specific styles are applied to elements like buttons, headers, and media content
 Sample pictures :
 ![Screenshot 2024-07-24 123622](https://github.com/user-attachments/assets/2d3a8c2a-aebb-4696-ab6c-1bf305785763)
 
+Picture 2 :
+
+
+![Uploading Screenshot 2024-07-24 123643.png…]()
+
+
 
